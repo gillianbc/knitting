@@ -33,9 +33,9 @@ Now work front and back separately.
 **Upper Back**
 Continue until piece is 1.25” less than desired finished length.
 
-Add a new notes entry with this heading:
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1ODk2MzAyMF19
+eyJoaXN0b3J5IjpbNDg1NjkyOTkxLC0zNTg5NjMwMjBdfQ==
 -->
