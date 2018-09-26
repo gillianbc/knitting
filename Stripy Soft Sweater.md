@@ -14,8 +14,11 @@ Cast on 106 sts using the COWYAK cast on method  [Tech Knitter](http://techknitt
 
 Do some stocking stitch for a few inches. 
 **Decrease For Waist**
-Dec 1st each side, 5 sts from edge - every 8 rows * 1
-Dec 1st each side, 5 sts from edge - every 6 rows * 
+Dec 1st each side, 5 sts from edge - every 8 rows x 1
+Dec 1st each side, 5 sts from edge - every 6 rows x 6
+Total dec = 14 sts.  92 sts remain.
+
+**Continue Straight**
 
 **Increase for Bust**
 
@@ -35,6 +38,6 @@ Continue until piece is 1.25” less than desired finished length.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTQwMTExMSw0ODU2OTI5OTEsLTM1OD
-k2MzAyMF19
+eyJoaXN0b3J5IjpbLTEyNjc2NTA4MTksNDg1NjkyOTkxLC0zNT
+g5NjMwMjBdfQ==
 -->
