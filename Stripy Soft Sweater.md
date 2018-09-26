@@ -24,7 +24,7 @@ Approx 7" from beginning
 **Increase for Bust**
 Inc 1st each side, 5 sts from edge - every 6 rows x 1
 Inc 1st each side, 5 sts from edge - every 8 rows x 6
-
+Total inc = 14 sts.  106 sts remain.
 
 Continue until piece measures 10.5” less that desired finished length.
 
@@ -39,6 +39,5 @@ Continue until piece is 1.25” less than desired finished length.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3ODEwNzQ5LDQ4NTY5Mjk5MSwtMzU4OT
-YzMDIwXX0=
+eyJoaXN0b3J5IjpbMTAzMDE5NzI5MF19
 -->
