@@ -19,11 +19,12 @@ Dec 1st each side, 5 sts from edge - every 6 rows x 6
 Total dec = 14 sts.  92 sts remain.
 
 **Continue Straight**
+Approx 7" from beginning
 
 **Increase for Bust**
+Inc 1st each side, 5 sts from edge - every 6 rows x 1
+Inc 1st each side, 5 sts from edge - every 8 rows x 6
 
-Every 6 rows, increase 1st each side - 3 times
-Every 8 rows, increase 1st each side - 4 times.
 
 Continue until piece measures 10.5” less that desired finished length.
 
@@ -38,6 +39,6 @@ Continue until piece is 1.25” less than desired finished length.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc2NTA4MTksNDg1NjkyOTkxLC0zNT
-g5NjMwMjBdfQ==
+eyJoaXN0b3J5IjpbNjg3ODEwNzQ5LDQ4NTY5Mjk5MSwtMzU4OT
+YzMDIwXX0=
 -->
