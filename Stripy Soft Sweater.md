@@ -16,6 +16,7 @@ Will follow size L for gauge 3.5.  For sleeves, I'll do size 1X for my fat arms.
 Cast on 74 sts using the COWYAK cast on method  [Tech Knitter](http://techknitting.blogspot.com/2007/10/cowyak-waste-yarn-method-of-provisional.html)  
 
 Do some stocking stitch for a few inches. 
+
 **Decrease For Waist**
 Dec 1st each side, 10 sts from edge - every 6 rows x 4
 Total dec = 8 sts.  66 sts remain.
