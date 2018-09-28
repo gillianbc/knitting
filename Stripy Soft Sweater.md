@@ -10,7 +10,7 @@ Katia Earth - doubled
 
 **6000 Pullover Possibilities**
 Saddle shoulders, knitted flat, square neck with mitred corners. Bottom up. Finished hip 44”. 
-Will follow size L for gauge 3.5.  For sleeves, I'll do size 1X for my fat arms.
+Will follow size L for gauge 3.5.  For sleeves, I'll do size 1X for my fat arms.  I want it to be 27" long from shoulder to hem;  about 15.5" from armpit to hem.  It's 3" longer than in the book.
 
 **Body**  
 Cast on 74 sts using the COWYAK cast on method  [Tech Knitter](http://techknitting.blogspot.com/2007/10/cowyak-waste-yarn-method-of-provisional.html)  
