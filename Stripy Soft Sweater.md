@@ -40,11 +40,18 @@ Continue until piece measures 21 3/4"
 **Shape Neck**
 Place markers either side of the centre 22 sts i.e. 16 + 24 + 16 = 56
 Bind off the centre 24 (Use a KFB on 1st, a K2tog on last)
+
 Continue (if necessary) until piece measures 23"
 
 **Shape Shoulders**
 Bind off 5 at the beginning of the next 4 rows
 Bind off 6 at the beginning of the next 4 rows
+
+**Possibilities**
+Maybe broken moss for the hem and the collar. K1 P1 row, K row P1 K1 row K row.
+Maybe linen stitch - 
+Row 1: knit 1, *slip 1 with yarn in front, knit 1; repeat from * to end.
+Row 2: purl 1, *slip 1 with yarn in back, purl 1; repeat from * to end.
 
 
 
