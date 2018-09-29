@@ -6,7 +6,7 @@ Saw a jumper knitted from this amazingly soft yarn in my local yarn shop, The Sp
 Katia Earth - doubled
 
 **Gauge**
-3.32sts / 5.08 rows per inch on 7mm needles.
+3.32sts / 5.08 rows per inch on 7mm needles.    13.28 sts / 20.32 rows for a 4" square.
 
 **6000 Pullover Possibilities**
 Saddle shoulders, knitted flat, square neck with mitred corners. Bottom up. Finished hip 44”. 
