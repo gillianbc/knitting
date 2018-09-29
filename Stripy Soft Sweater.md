@@ -35,17 +35,27 @@ Continue until piece measures 14" from beginning.
 Bind off 9 at the beg of next 2 rows
 You will have 74 - 18 = 56 remaining
 
-Continue until piece measures 21 3/4"
+Continue until piece measures 24 1/4"
 
 **Shape Neck**
 Place markers either side of the centre 22 sts i.e. 16 + 24 + 16 = 56
 Bind off the centre 24 (Use a KFB on 1st, a K2tog on last)
 
-Continue (if necessary) until piece measures 23"
+Continue (if necessary) until piece measures 24.5"
 
 **Shape Shoulders**
 Bind off 5 at the beginning of the next 4 rows
 Bind off 6 at the beginning of the next 4 rows
+
+**Front**
+Same as back but maybe do some short rows at the bust if that's not on a colour change.
+
+**Square Neck**
+16" circular, begin at right neck.
+Pick up 1 st for each bound off st.  Must be an odd number.
+Pick up 1 st for each st in horizontal section.  Must be an odd number.
+Pick up 6 from every 9 rows on verticals.  K S K K S K K S K - K S K K S K K S K  Must be an odd number.
+
 
 **Possibilities**
 Maybe broken moss for the hem and the collar. K1 P1 row, K row P1 K1 row K row.
