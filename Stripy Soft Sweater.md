@@ -29,7 +29,7 @@ Inc 1st each side, 10 sts from edge - every 6 rows x 1
 Inc 1st each side, 10 sts from edge - every 8 rows x 3
 Total inc = 8 sts.  74 sts remain.
 
-Continue until piece measures 14" from beginning.
+Continue until piece measures 14" from beginning.  (End of first red rows)
 
 **Armholes**
 Bind off 9 at the beg of next 2 rows
