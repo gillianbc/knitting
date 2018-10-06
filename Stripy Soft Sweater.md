@@ -81,9 +81,8 @@ Row 1: knit 1, *slip 1 with yarn in front, knit 1; repeat from * to end.
 Row 2: purl 1, *slip 1 with yarn in back, purl 1; repeat from * to end.
 
 
-
-
+ - List item
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjAwNjc0NCwtNzY5OTY0MDU0XX0=
+eyJoaXN0b3J5IjpbNDQ4MDkxNjI1LC03Njk5NjQwNTRdfQ==
 -->
