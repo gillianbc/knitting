@@ -59,9 +59,12 @@ Pick up 6 from every 9 rows on verticals.    Must be an odd number.
 
 **Sleeves - Top Down**
 *Saddle*
--Size 1X
--Cast on 8st
--Knit 4.5"
+Size 1X
+
+Cast on 8st
+
+Knit 4.5" - 17th row after cast on is on the needle
+
 *Cap*
 -Cast on 2 sts each end of next two (RS and WS) rows - 2 rows, 8 sts increased = 8 + 8 = 16
 -Inc 1 each row (RS and WS) 4 times - 4 rows, 8 sts increased = 16 + 8 = 24
