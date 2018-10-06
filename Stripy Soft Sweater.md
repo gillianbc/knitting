@@ -59,19 +59,19 @@ Pick up 6 from every 9 rows on verticals.    Must be an odd number.
 
 **Sleeves - Top Down**
 *Saddle*
-Size 1X
-Cast on 8st
-Knit 4.5"
+-Size 1X
+-Cast on 8st
+-Knit 4.5"
 *Cap*
-Cast on 2 sts each end of next two (RS and WS) rows - 2 rows, 8 sts increased = 8 + 8 = 16
-Inc 1 each row (RS and WS) 4 times - 4 rows, 8 sts increased = 16 + 8 = 24
-Inc 1 each RS row 11 times - 22 rows, 22 sts increased = 24 + 22 = 46 
-Cast on 3sts each end of next row - 6 sts increased = 46 + 6 = 52
+-Cast on 2 sts each end of next two (RS and WS) rows - 2 rows, 8 sts increased = 8 + 8 = 16
+-Inc 1 each row (RS and WS) 4 times - 4 rows, 8 sts increased = 16 + 8 = 24
+-Inc 1 each RS row 11 times - 22 rows, 22 sts increased = 24 + 22 = 46 
+-Cast on 3sts each end of next row - 6 sts increased = 46 + 6 = 52
 *End of Cap Shaping*
-Dec 1 each side every 10 rows 3 times - 30 rows, 6 sts decreased = 52 - 6 = 46
-Inc 1 each side every 8 rows 6 times - 48 rows, 12 sts decreased = 46 - 12 = 34
-Work even until where cuff should start
-34 sts for whatever cuff - 2.5"
+-Dec 1 each side every 10 rows 3 times - 30 rows, 6 sts decreased = 52 - 6 = 46
+-Inc 1 each side every 8 rows 6 times - 48 rows, 12 sts decreased = 46 - 12 = 34
+-Work even until where cuff should start
+-34 sts for whatever cuff - 2.5"
 
 
 **Possibilities**
