@@ -85,5 +85,5 @@ Row 2: purl 1, *slip 1 with yarn in back, purl 1; repeat from * to end.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTk2NDA1NF19
+eyJoaXN0b3J5IjpbMTUzNjAwNjc0NCwtNzY5OTY0MDU0XX0=
 -->
